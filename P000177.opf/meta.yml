@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000177
+initial_creation_type: ebook
+source_metadata:
   title: རྩ་བའི་རྒྱུད་ཀྱི་མཆན་འགྲིལ་ཉི་ཟླའི་སྙིང་པོ། །
   authors:
   - མཛད་པ་པོ། གཞན་ཕན་སྣང་བ།
-  sku: SHE-008
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: SHE-008
 web_metadata:
   title:
     en: The Essence of the Sun and Moon:A Commentary on the Root Tantra
